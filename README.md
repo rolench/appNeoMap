@@ -90,4 +90,4 @@ Shades of Gray color constancy C++: https://github.com/pi19404/m19404/tree/maste
 
 ## Screenshots
 
-<img src="screenshots/principale.jpeg" width="25%" height="25%"> <img src="screenshots/principale.jpeg" width="25%" height="25%">
+<img src="screenshots/principale.jpeg" width="25%" height="25%"> <img src="screenshots/ritaglio.jpeg" width="25%" height="25%"> <img src="screenshots/scan.jpeg" width="25%" height="25%">
